@@ -1,1 +1,23 @@
 Este archivo archivo es de prueba, ignorar
+
+Git es un controlador de versiones
+
+Algunos de sus comando son:
+
+status : sirve para revisar el estado de los archivos y si estos estan agregados al commit o no.
+
+add : sirve para seleccionar los archivos que quiero agregar al commit.
+
+commit : sirve para realizar un guardado de los cambios realizados y añadir un mensaje de lo que se hizo.
+
+push : es para enviar los commits realizados al repositorio remoto en github.
+
+pull : es para actualizar el repositorio local con los que estan en github.
+
+merge : sirve para fusionar una rama con la rama principal.
+
+fetch : 
+
+clone : 
+
+checkout : sirve para cambiarse entre las ramas existentes y posteriormente poder trabajar en ellas.
