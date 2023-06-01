@@ -18,6 +18,6 @@ merge : sirve para fusionar una rama con la rama principal.
 
 fetch : 
 
-clone : 
+clone : sirve para clonar un repositorio externo en nuestra computadora
 
 checkout : sirve para cambiarse entre las ramas existentes y posteriormente poder trabajar en ellas.
