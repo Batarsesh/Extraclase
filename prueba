@@ -16,8 +16,8 @@ pull : es para actualizar el repositorio local con los que estan en github.
 
 merge : sirve para fusionar una rama con la rama principal.
 
-fetch : 
+fetch : sirve para extraer el contenido de un repositorio remoto.
 
-clone : sirve para clonar un repositorio externo en nuestra computadora
+clone : sirve para clonar un repositorio externo en nuestra computadora.
 
 checkout : sirve para cambiarse entre las ramas existentes y posteriormente poder trabajar en ellas.
